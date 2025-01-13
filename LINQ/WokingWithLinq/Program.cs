@@ -6,6 +6,7 @@ internal class Program
 {
     static void Main(string[] args)
     {
+        // 3.1-lsn
         // lambda expression/funksiya (anonim funksiya)
 
         // age => age > 18 // return type and argument(condition) 
