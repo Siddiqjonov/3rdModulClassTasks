@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading", "Multithreading\Multithreading.csproj", "{5170FB14-9CCE-4228-8EF1-37821E7846BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoThreadUsingOneMethod", "TwoThreadUsingOneMethod\TwoThreadUsingOneMethod.csproj", "{BEACBAED-C5CF-4C11-82F0-1291F29A65FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingThreadToCountDigits", "UsingThreadToCountDigits\UsingThreadToCountDigits.csproj", "{AD4A58F4-1EC2-408D-9602-4DF69387802C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5170FB14-9CCE-4228-8EF1-37821E7846BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5170FB14-9CCE-4228-8EF1-37821E7846BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5170FB14-9CCE-4228-8EF1-37821E7846BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5170FB14-9CCE-4228-8EF1-37821E7846BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEACBAED-C5CF-4C11-82F0-1291F29A65FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEACBAED-C5CF-4C11-82F0-1291F29A65FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEACBAED-C5CF-4C11-82F0-1291F29A65FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEACBAED-C5CF-4C11-82F0-1291F29A65FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD4A58F4-1EC2-408D-9602-4DF69387802C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4A58F4-1EC2-408D-9602-4DF69387802C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4A58F4-1EC2-408D-9602-4DF69387802C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4A58F4-1EC2-408D-9602-4DF69387802C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BEDFEA1-BBA5-412B-A662-9C5533AFFE9B}
+	EndGlobalSection
+EndGlobal
